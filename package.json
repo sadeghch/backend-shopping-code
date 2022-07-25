@@ -6,7 +6,8 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon server.js",
-    "seed": "node seed.js"
+    "seed": "node seed.js",
+     "build": "[my-framework] build --output public"
   },
   "author": "sadegh",
   "license": "ISC",
